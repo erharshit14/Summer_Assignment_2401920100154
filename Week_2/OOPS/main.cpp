@@ -7,11 +7,9 @@ int main() {
     Veena veena;
     veena.play();
 
-    
     Saxophone saxophone;
     saxophone.play();
 
-    
     Playable* p;
 
     p = &veena;
